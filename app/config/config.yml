@@ -67,6 +67,7 @@ doctrine:
             default:
                 mappings:
                     SonataPageBundle: ~
+                    ApplicationSonataPageBundle: ~ # only once the ApplicationSonataPageBundle is generated
 
 
 # Swiftmailer Configuration
