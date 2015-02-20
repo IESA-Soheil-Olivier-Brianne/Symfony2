@@ -24,7 +24,7 @@
         "symfony-cmf/routing-auto-bundle": "~1.0",
         "sonata-project/page-bundle": "~2.3@dev",
         "sonata-project/doctrine-orm-admin-bundle": "~2.4@dev",
-        "sonata-project/datagrid-bundle": "2.2.*@dev",
+        "sonata-project/datagrid-bundle": "~2.2@dev",
         "sonata-project/block-bundle": "~2.3@dev",
         "sonata-project/cache-bundle": "~2.2@dev",
         "sonata-project/seo-bundle": "~1.1@dev",
