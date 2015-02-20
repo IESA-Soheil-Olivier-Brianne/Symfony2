@@ -28,6 +28,7 @@ class AppKernel extends Kernel
             new Sonata\EasyExtendsBundle\SonataEasyExtendsBundle(),
             new Sonata\NotificationBundle\SonataNotificationBundle(),
             new Sonata\PageBundle\SonataPageBundle(),
+            new Symfony\Cmf\Bundle\RoutingBundle\CmfRoutingBundle(),
             // The admin requires some twig functions defined in the security
             // bundle, like is_granted
             //new Symfony\Bundle\SecurityBundle\SecurityBundle(),
