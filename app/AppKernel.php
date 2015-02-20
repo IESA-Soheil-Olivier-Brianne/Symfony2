@@ -56,7 +56,7 @@ class AppKernel extends Kernel
 
             // Bootstrap Bundle soheil
             new Braincrafted\Bundle\BootstrapBundle\BraincraftedBootstrapBundle(),
-
+            new KMSBundle\KMSBundle(),
         );
 
         if (in_array($this->getEnvironment(), array('dev', 'test'))) {

@@ -32,7 +32,8 @@
         "sonata-project/notification-bundle": "~2.3@dev",
         "sonata-project/admin-bundle": "~2.4@dev",
         "braincrafted/bootstrap-bundle": "~2.0",
-        "symfony-cmf/routing-bundle": "~1.4@dev"
+        "symfony-cmf/routing-bundle": "~1.4@dev",
+        "jms/serializer-bundle": "0.13.*@dev"
     },
     "scripts": {
         "post-install-cmd": [
