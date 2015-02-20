@@ -7,3 +7,6 @@ sonata_cache_cache:
 admin: 
     resource: '@SonataAdminBundle/Resources/config/routing/sonata_admin.xml' 
     prefix: /admin
+sonata_page_exceptions:
+    resource: '@SonataPageBundle/Resources/config/routing/exceptions.xml'
+    prefix: /
